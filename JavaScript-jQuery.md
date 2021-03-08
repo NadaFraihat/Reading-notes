@@ -50,7 +50,6 @@ var name-of-your-var ;
 #### How to assgin them?
 var name-of-your-var = value;
 you can write boolen, string or number as variable value
-
 After we create a new web page with JS, we had an interactive page
 We can put the code of js between the script tags and with it's own file, and it has the same result.
 **But** perfering to put the code in the JS file.

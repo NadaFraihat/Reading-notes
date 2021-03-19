@@ -15,20 +15,20 @@ markdown| [markdown](https://nadafraihat.github.io/reading-notes/markdown)
 
 
 # Code 201 Reading Notes
-Title | Link
-------|-------
-class-01| [class-01](https://nadafraihat.github.io/reading-notes/class-01)
-class-02| [class-02](https://nadafraihat.github.io/reading-notes/class-02)
+Title      | Link
+-----------|-------
+class-01   | [class-01](https://nadafraihat.github.io/reading-notes/class-01)
+class-02   | [class-02](https://nadafraihat.github.io/reading-notes/class-02)
 HTML-CSS-JS| [HTML-CSS-JS](https://nadafraihat.github.io/reading-notes/HTML-CSS-JS)
-Read04 | [Read04](https://nadafraihat.github.io/reading-notes/Read04)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
-Untitled | [Link](https://nadafraihat.github.io/reading-notes/)
+Read04     | [Read04](https://nadafraihat.github.io/reading-notes/Read04)
+Read05     | [Read05](https://nadafraihat.github.io/reading-notes/Read-5)
+Read06     | [Read06](https://nadafraihat.github.io/reading-notes/Read06)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)

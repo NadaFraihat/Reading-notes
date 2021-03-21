@@ -23,7 +23,7 @@ HTML-CSS-JS| [HTML-CSS-JS](https://nadafraihat.github.io/reading-notes/HTML-CSS-
 Read04     | [Read04](https://nadafraihat.github.io/reading-notes/Read04)
 Read05     | [Read05](https://nadafraihat.github.io/reading-notes/Read-5)
 Read06     | [Read06](https://nadafraihat.github.io/reading-notes/Read06)
-Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
+Read07   | [Read07](https://nadafraihat.github.io/reading-notes/Read07)
 Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
 Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
 Untitled   | [Link](https://nadafraihat.github.io/reading-notes/)
